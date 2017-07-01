@@ -100,7 +100,7 @@
         <dependency>
             <groupId>net.milkbowl.vault</groupId>
             <artifactId>VaultAPI</artifactId>
-            <version>1.4</version>
+            <version>1.6</version>
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
@@ -118,7 +118,7 @@
         <dependency>
             <groupId>net.alpenblock</groupId>
             <artifactId>BungeePerms</artifactId>
-            <version>3.0-alpha-1</version>
+            <version>3.0-SNAPSHOT-1</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
